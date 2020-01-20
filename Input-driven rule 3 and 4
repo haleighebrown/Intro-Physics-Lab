@@ -49,5 +49,5 @@ def rule_four ():
 
 
 print(rule_three())
-
+print(rule_four())
 
